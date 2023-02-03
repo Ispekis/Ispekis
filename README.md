@@ -21,6 +21,7 @@
     <p>Github stats 🔥 :</p>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ispekis&theme=calm)
+![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Ispekis&theme=calm)
 </div>
 
 ---
