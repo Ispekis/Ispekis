@@ -27,7 +27,7 @@
 <div>
     <p>Github stats :</p>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ispekis&theme=clam)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ispekis&theme=calm)
 </div>
 
 ---
